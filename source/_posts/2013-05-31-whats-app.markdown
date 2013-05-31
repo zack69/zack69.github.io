@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "wass up"
+title: "whats app"
 date: 2013-05-31 13:18
 comments: true
 categories: 
