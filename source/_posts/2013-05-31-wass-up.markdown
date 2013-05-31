@@ -1,0 +1,7 @@
+---
+layout: post
+title: "wass up"
+date: 2013-05-31 12:24
+comments: true
+categories: 
+---
