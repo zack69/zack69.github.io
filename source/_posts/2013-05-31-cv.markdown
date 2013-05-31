@@ -1,0 +1,7 @@
+---
+layout: post
+title: "cv"
+date: 2013-05-31 17:05
+comments: true
+categories: 
+---
