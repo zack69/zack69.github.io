@@ -4,11 +4,8 @@ title: "we"
 date: 2013-05-31 16:30
 comments: true
 categories: 
----gjhasdxcggbfdjw
-jkdcnbdjkgb
+---gjhasdxcggb
 
 
-manisha with sachin
-
-
+{% video http://s3.imathis.com/video/zero-to-fancy-buttons.mp4 640 320 http://s3.imathis.com/video/zero-to-fancy-buttons.png %}
 
