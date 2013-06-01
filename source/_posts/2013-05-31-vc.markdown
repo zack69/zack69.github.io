@@ -5,3 +5,14 @@ date: 2013-05-31 17:11
 comments: true
 categories: 
 ---
+
+{% img http://placekitten.com/890/280 %}
+{% img left http://placekitten.com/320/250 Place Kitten #2 %}
+{% img right http://placekitten.com/300/500 150 250 Place Kitten #3 %}
+{% img right http://placekitten.com/300/500 150 250 'Place Kitten #4' 'An image of a very cute kitten' %}
+
+{% http://placekitten.com.s3.amazonaws.com/homepage-samples/408/287.jpg %}
+
+{% http://www.freedomwallpaper.com/wallpaper/hd-widescreen-wallpaper-3100/100 %}
+
+{% http://www.plant.lv/img/bildes/38 %}
