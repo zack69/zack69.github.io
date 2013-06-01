@@ -1,7 +1,8 @@
----
-layout: post
-title: "cv"
-date: 2013-05-31 17:05
-comments: true
-categories: 
----
+{% img http://placekitten.com/890/280 %}
+{% img left http://placekitten.com/320/250 Place Kitten #2 %}
+{% img right http://placekitten.com/300/500 150 250 Place Kitten #3 %}
+{% img right http://placekitten.com/300/500 150 250 'Place Kitten #4' 'An image of a very cute kitten' %}
+{% img http://www.freedomwallpaper.com/wallpaper/hd-widescreen-wallpaper-3.jpg %}
+{% img http://www.hdwallpapers.in/walls/race_driver_grid_2-HD %}
+{% img http://freewallpaperdesktop.info/wp-content/uploads/2013/05/HD-Wallpapers-Dancing-Man-With-Light.jpg 600/800 %}
+{% img http://www.hdwallpapersbest.com/wp-content/uploads/2013/03/pixars-up-hd-wide/600/700 %}
