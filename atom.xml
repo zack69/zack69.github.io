@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://zack69.github.io/atom.xml" rel="self"/>
   <link href="http://zack69.github.io/"/>
-  <updated>2013-06-02T08:22:34+05:30</updated>
+  <updated>2013-06-02T08:28:34+05:30</updated>
   <id>http://zack69.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Google Hangout]]></title>
+    <link href="http://zack69.github.io/blog/2013/06/02/google-hangout/"/>
+    <updated>2013-06-02T08:28:00+05:30</updated>
+    <id>http://zack69.github.io/blog/2013/06/02/google-hangout</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[new post]]></title>
